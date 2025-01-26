@@ -6,12 +6,13 @@ Overview
 
 # Dataset
 The dataset includes the following files:
-Customers.csv:
-  Details about customers, including their ID, name, region, and signup date.
-Products.csv:
-  Information about products, including ID, name, category, and price.
-Transactions.csv:
-  Details about transactions, including product quantity, total value, and transaction date.
+
+1] Customers.csv:
+    Details about customersName, including their ID, region, and signup date.
+2] Products.csv:
+    Information about products, including ID, category, and price.
+3] Transactions.csv:
+    Details about transactions, including product quantity, total value, and transaction date.
   
 # Tasks
 1. Exploratory Data Analysis (EDA) and Business Insights
