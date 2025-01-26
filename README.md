@@ -9,8 +9,10 @@ The dataset includes the following files:
 
 1] Customers.csv:
     Details about customersName, including their ID, region, and signup date.
+    
 2] Products.csv:
     Information about products, including ID, category, and price.
+    
 3] Transactions.csv:
     Details about transactions, including product quantity, total value, and transaction date.
   
